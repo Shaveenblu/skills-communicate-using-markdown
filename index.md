@@ -13,4 +13,6 @@ used to add a commit
 ```javascript
 console.log("Hello")
 ```
-
+- [ ] Turn on GitHub pages.
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
